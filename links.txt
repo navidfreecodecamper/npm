@@ -1,0 +1,7 @@
+https://docs.npmjs.com/misc/scripts
+https://registry.npmjs.org.
+http://docs.c9.io
+http://www.youtube.com/user/c9ide
+Semantic Version http://semver.org
+https://docs.npmjs.com/misc/scripts 
+https://www.npmjs.com/
